@@ -1,2 +1,1 @@
-# challenge-6
-Discount Codes Microservices challenge with Quarkus and Datagrid
+# discount-codes-quarkus-datagrid-challenge
