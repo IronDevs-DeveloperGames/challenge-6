@@ -1,1 +1,1 @@
-# discount-codes-quarkus-datagrid-challenge
+# Discount-codes-quarkus-datagrid-challenge
